@@ -69,5 +69,5 @@ Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-
 ## Calculators
 
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
-- [Interesa — Protein Price per 25 g](https://interesa.sk/nastroje/cena-proteinu.html) - Free Slovak-language, no-login browser calculator comparing two protein powder packages by cost per 25 g of label-declared protein, with an optional iframe embed.
+- [Interesa — Protein Cost per 25 g](https://interesa.sk/nastroje/cena-proteinu.html) - Free Slovak-language, no-login/no-cookie browser calculator comparing two packages of protein powder or food (e.g., tofu, quark, yogurt) by cost per 25 g of label-declared protein. Uses entered price, weight and protein/100 g for the same edible form; optional iframe embed. Cost-only, not a nutrition-quality rating.
 
